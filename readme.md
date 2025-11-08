@@ -3,6 +3,7 @@ This is a simple setup with some basic configs and prebuild binaries.
 Go check them out at:
 Helix: https://helix-editor.com/
 Lazygit: https://github.com/jesseduffield/lazygit
+Ninja: https://github.com/ninja-build/ninja
 
 Both applications should be added to your user paths
 Additionally, this repository should live in %user%/appdata/roaming/ on windows for the .toml files to be active.
